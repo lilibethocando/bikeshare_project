@@ -13,6 +13,6 @@ The answers to the questions above will determine the city and timeframe on whic
 
 ### Resources
 
-- We used [Streamlit](https://streamlit.io/) which is an open-source Python library that makes it easy to create and share beautiful, custom web apps for machine learning and data science projects. 
+- I used [Streamlit](https://streamlit.io/) which is an open-source Python library that makes it easy to create and share beautiful, custom web apps for machine learning and data science projects. 
 - The data for this project was provided by [Udacity](https://www.udacity.com/course/programming-for-data-science-nanodegree--nd104) on the Programming for Data Science with Python Nanodegree. 
 
