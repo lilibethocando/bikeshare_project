@@ -1,6 +1,7 @@
-# Bikeshare App: Unleashing Urban Insights
+# 🚲🌆🔍 Bikeshare App: Unleashing Urban Insights 🔍🌆🚲
 
 ## Dive into an Interactive Odyssey
+### [Click here to access it](https://share.streamlit.io/lilibethocando/bikeshare_project/bikeshare_2.py)
 Welcome to the Bikeshare App! In this repository, we present the remarkable `bikeshare.py` script—an interactive masterpiece designed to transform raw input into a thrilling terminal experience. Immerse yourself in a world of urban exploration as you navigate datasets with the power of your choices. Brace yourself for an interactive journey where answers transform based on your preferences.
 
 ## How to Harness the Power:
@@ -11,7 +12,7 @@ This script opens doors to three pivotal questions:
 
 Behold as the dataset, timeframe, and insights morph according to your selections. The dynamic interplay unveils a personalized adventure through urban data. After dataset refinement, relish compelling statistical results, granting you the option to embark on another expedition or gracefully conclude your terminal journey.
 
-## [Embark on your Bikeshare expedition now!](https://share.streamlit.io/lilibethocando/bikeshare_project/bikeshare_2.py)
+## [Embark on your Bikeshare expedition here](https://share.streamlit.io/lilibethocando/bikeshare_project/bikeshare_2.py)
 
 ### Forging Excellence with Premier Resources
 
